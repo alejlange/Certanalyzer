@@ -4,7 +4,8 @@ A modern, multi-tab GUI Toolkit for PKI, SSL/TLS certificate analysis, and local
 
 > *“Because if you have Linux, you just run OpenSSL. But on Windows, you need Certanalyzer.”* 😉
 
-![Certanalyzer Screenshot](link_a_una_imagen_de_tu_app_aqui.png)
+<img width="1136" height="1013" alt="image" src="https://github.com/user-attachments/assets/9e343844-66e9-4a47-b4d0-d9fc9330298b" />
+
 
 ## Features
 
@@ -35,4 +36,3 @@ If you want to run the python script directly or build it yourself:
    cd Certanalyzer
 
 
-<img width="1136" height="1013" alt="image" src="https://github.com/user-attachments/assets/9e343844-66e9-4a47-b4d0-d9fc9330298b" />
